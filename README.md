@@ -33,7 +33,7 @@ Final Recommendations: The notebook prints the top 5 unique products after senti
 To deploy this project run
 
 First clone the repo
-   git clone https://github.com/codekid211/productRecomendations.git
+   git clone https://github.com/codekid211/productRecomendation.git
    cd productRecomendations
 
 Then install the following libraries
