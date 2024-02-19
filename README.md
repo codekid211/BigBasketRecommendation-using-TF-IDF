@@ -9,7 +9,7 @@ This project utilizes the BigBasket Entire Product List (~28K datapoints) datase
 
 ## Project Breif
 Workflow:
-![Dataset](assets/dataset.png)
+![Dataset](assets/Dataset.png)
 Data Loading and Preprocessing: The code reads a dataset from a CSV file, performs initial data exploration, and removes rows with missing values in specific columns.
 
 Exploratory Data Analysis (EDA): The notebook performs univariate analysis on different features like category, sub-category, brand, and type. Visualizations, including bar graphs and box plots, are generated to understand the distribution of these features.
